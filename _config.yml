@@ -1,0 +1,14 @@
+layout_spectrum: 0.7714424547739327
+typography_spectrum: 0.1285116858780384
+color:
+  brandStrength: 0.23890741518698633
+  lightness: 0.5260518721770495
+  saturation: 0.6886891934555024
+  rhythmicContrast: 0.9536521893460304
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: My Blog about Collaboration
