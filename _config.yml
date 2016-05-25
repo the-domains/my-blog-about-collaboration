@@ -1,4 +1,3 @@
-layout_spectrum: 0.7714424547739327
 typography_spectrum: 0.1285116858780384
 color:
   brandStrength: 0.23890741518698633
@@ -11,4 +10,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.7714424547739327
+author:
+  name: Bo Telén Andersen
+  email: bta@itoptimiser.com
 name: My Blog about Collaboration
+title: Collaboration in my view
